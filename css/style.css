@@ -44,6 +44,7 @@ figcaption {
 /* descentdent selector */
 #logo h1 { /* selects <h1>s if they are inside element with id = logo*/
   font-family: 'Clicker Script', cursive;
-
-
 }
+
+#logo h2 { /* selects <h1>s if they are inside element with id = logo*/
+  font-family: 'Elsie Swash Caps', cursive;
