@@ -40,5 +40,10 @@ figcaption {
 #logo {
   background: aqua;
   } /* select  elements with id = logo*/
-  
+
 /* descentdent selector */
+#logo h1 { /* selects <h1>s if they are inside element with id = logo*/
+  font-family: 'Clicker Script', cursive;
+
+
+}
